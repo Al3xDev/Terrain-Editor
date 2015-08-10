@@ -1,6 +1,6 @@
 # Terrain-Editor
 3D terrrain editor
-install GLEW \n
+install GLEW <br>
 sudo apt-get install libglew-dev
 
 install glm
