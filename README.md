@@ -1,10 +1,10 @@
 # Terrain-Editor
-3D terrrain editor
+3D terrrain editor<br>
 install GLEW <br>
-sudo apt-get install libglew-dev
+sudo apt-get install libglew-dev<br><br>
 
-install glm
-sudo apt-get install libglm-dev
+install glm<br>
+sudo apt-get install libglm-dev<br><br>
 
-install SOIL
-sudo apt-get install libsoil-dev
+install SOIL<br>
+sudo apt-get install libsoil-dev<br><br>
