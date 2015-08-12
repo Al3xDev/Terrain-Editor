@@ -1,0 +1,11 @@
+#version 440 core
+out vec4 color;
+in float pd;
+uniform float ray;
+void main()
+{
+    if(pd<=ray)
+        color=vec4(mix(vec3(0.6,0.3,0.1),vec3(0.0,0.502,0.0),ray/pd),1.0);
+    else
+        color=vec4(0.6,0.3,0.1,1.0);
+}
